@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ala'a</h1>
 <h3 align="center">💻 Back-End Developer | .NET Enthusiast | Problem Solver</h3>
 
-<p align="center">
-  <a href="https://github.com/AlaaMahmoud-dev">GitHub Profile</a>
-</p>
+
 
 ---
 

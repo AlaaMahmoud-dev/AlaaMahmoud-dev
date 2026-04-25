@@ -1,68 +1,97 @@
 <h1 align="center">Hi 👋, I'm Ala'a</h1>
-<h3 align="center">💻 Back-End Developer | .NET Enthusiast | Problem Solver</h3>
+<h3 align="center">Back-End Developer | .NET Developer | Problem Solver</h3>
 
-
-
----
-
-### 👨‍💻 About Me
-- 🔭 Currently working on improving my **Back-End Development skills**
-- 🌱 Learning more about **.NET, SQL Server, and System Design**
-- 💡 Passionate about solving problems using **Data Structures & Algorithms**
-- 🎯 Goal: Become a professional **Software Engineer**
+<p align="center">
+  <a href="https://github.com/AlaaMahmoud-dev">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ---
 
-### 🚀 Projects
-
-#### 🧠 Data Structures & Algorithms
-- 🔗 [DS & Algorithms in C++](https://github.com/AlaaMahmoud-dev/Data-Structures-and-Algorithms)  
-  Practice problems and implementations to strengthen problem-solving skills.
-
-#### 🖥️ .NET Desktop Applications
-- 🏥 [Hospital Management System](https://github.com/AlaaMahmoud-dev/Hospital-Management-System)  
-  A system to manage patients, doctors, and hospital operations.
-
-- 🚗 [Drivers & Vehicles License Department](https://github.com/AlaaMahmoud-dev/DVLD-Project)  
-  Simulates real-world licensing processes and data handling.
-
-- 🚘 [Car Rental System](https://github.com/AlaaMahmoud-dev/CarRentalSystem)  
-  Manage car bookings, customers, and rental operations.
+## 👨‍💻 About Me
+- 💻 Passionate **Back-End Developer** specializing in **.NET**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 🗄️ Experienced in building systems using **SQL Server**
+- 🚀 Focused on writing clean, scalable, and maintainable code
+- 🎯 Currently aiming to land a **Software Engineering position**
 
 ---
 
-### 🛠️ Technologies & Tools
-- 💻 Languages: **C++, C#, SQL**
-- ⚙️ Frameworks: **.NET**
-- 🗄️ Databases: **SQL Server**
-- 🧰 Tools: **Visual Studio, Git, GitHub**
+## 🚀 Featured Projects
+
+### 🏥 Hospital Management System
+🔗 https://github.com/AlaaMahmoud-dev/Hospital-Management-System  
+A full desktop application built with **.NET** to manage:
+- Patients & Doctors
+- Appointments & Records
+- Administrative operations  
 
 ---
 
-### 📈 GitHub Stats
+### 🚗 Drivers & Vehicles License Department (DVLD)
+🔗 https://github.com/AlaaMahmoud-dev/DVLD-Project  
+A system that simulates real-world licensing workflows:
+- Driver registration & license issuing
+- Data validation & tracking
+- Database-driven architecture using **SQL Server**
+
+---
+
+### 🚘 Car Rental System
+🔗 https://github.com/AlaaMahmoud-dev/CarRentalSystem  
+A complete system for managing:
+- Car inventory
+- Customer bookings
+- Rental operations  
+
+---
+
+### 🧠 Data Structures & Algorithms (C++)
+🔗 https://github.com/AlaaMahmoud-dev/Data-Structures-and-Algorithms  
+Collection of problem-solving implementations covering:
+- Arrays, Linked Lists, Stacks, Queues
+- Sorting & Searching Algorithms
+- Algorithmic thinking and optimization
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C++
+- C#
+- SQL
+
+**Frameworks**
+- .NET
+
+**Databases**
+- SQL Server
+
+**Tools**
+- Git & GitHub
+- Visual Studio
+
+---
+
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlaaMahmoud-dev&show_icons=true&theme=radical" />
 </p>
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 - 💼 GitHub: https://github.com/AlaaMahmoud-dev
 
 ---
 
-⭐ *Feel free to check out my repositories and give them a star!*
-<!--
+## ⚡ What Makes Me Different
+- I focus on **real-world systems**, not just small projects  
+- I care about **code quality, structure, and scalability**  
+- I continuously improve through **practice and learning**  
 
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *If you find my work interesting, feel free to explore my repositories!*

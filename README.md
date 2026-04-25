@@ -73,12 +73,6 @@ Collection of problem-solving implementations covering:
 - Git & GitHub
 - Visual Studio
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlaaMahmoud-dev&show_icons=true&theme=radical" />
-</p>
 
 ---
 

@@ -47,13 +47,15 @@ A complete system for managing:
 
 ---
 
-### 🧠 Data Structures & Algorithms (C++)
-🔗 https://github.com/AlaaMahmoud-dev/Data-Structures-and-Algorithms  
-Collection of problem-solving implementations covering:
-- Arrays, Linked Lists, Stacks, Queues
-- Sorting & Searching Algorithms
-- Algorithmic thinking and optimization
-
+### 💻 Banking System Evolution (C++)
+## 🏦 Client Management System (CRUD)
+🔗 https://github.com/AlaaMahmoud-dev/Bank-System
+## 🔄 Transactions Extension
+🔗 https://github.com/AlaaMahmoud-dev/Bank-System
+## 🔐 User Management & Authentication
+🔗 https://github.com/AlaaMahmoud-dev/Bank-System
+## 💳 ATM System
+🔗 https://github.com/AlaaMahmoud-dev/ATM-System
 ---
 
 ## 🛠️ Tech Stack

@@ -47,15 +47,23 @@ A complete system for managing:
 
 ---
 
-### 💻 Banking System Evolution (C++)
-## 🏦 Client Management System (CRUD)
-🔗 https://github.com/AlaaMahmoud-dev/Bank-System
-## 🔄 Transactions Extension
-🔗 https://github.com/AlaaMahmoud-dev/Bank-System
-## 🔐 User Management & Authentication
-🔗 https://github.com/AlaaMahmoud-dev/Bank-System
-## 💳 ATM System
-🔗 https://github.com/AlaaMahmoud-dev/ATM-System
+💻 Banking System Evolution (C++)
+🏦 Client Management System (CRUD)
+
+🔗 https://github.com/AlaaMahmoud-dev/Data-Structures-and-Algorithms/BankProject
+
+🔄 Transactions Extension
+
+🔗 https://github.com/AlaaMahmoud-dev/Data-Structures-and-Algorithms/BankProjectExtensions/Extension1
+
+🔐 User Management & Authentication
+
+🔗 https://github.com/AlaaMahmoud-dev/Data-Structures-and-Algorithms/BankProjectExtensions/Extension2
+
+💳 ATM System
+
+🔗 https://github.com/AlaaMahmoud-dev/Data-Structures-and-Algorithms/ATMProject
+
 ---
 
 ## 🛠️ Tech Stack
